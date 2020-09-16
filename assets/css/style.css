@@ -1,8 +1,11 @@
 .navbar-light .navbar-brand {
-    
+
+
     background: teal;
     color: white;
-
+}
     body {
-        background-image: url("./assets/ignasi_pattern_s.png")
+        background-image: url("../ignasi_pattern_s.png")
     }
+
+    /* * {background-color: aquamarine;} */
