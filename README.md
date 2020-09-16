@@ -16,7 +16,7 @@ Deployed webpage link:
 https://diegocortes4.github.io/diegocortes-portfolio-2020/
 
 Screenshot of the webpage:
-
+[picture](img/assets/ignasi_pattern_s.png)
 
 Credits:
 https://getbootstrap.com/
