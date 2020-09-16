@@ -2,3 +2,7 @@
     
     background: teal;
     color: white;
+
+    body {
+        background-image: url("./assets/ignasi_pattern_s.png")
+    }
