@@ -4,6 +4,16 @@
     background: teal;
     color: white;
 }
+.float-img {
+    
+    float: left; 
+    margin-right:10px; 
+    margin-bottom: 50px; 
+    border: solid black 1px; 
+    padding: 2px;"
+}
+
+}
     body {
         background-image: url("../ignasi_pattern_s.png")
     }
