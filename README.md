@@ -15,10 +15,11 @@ https://diegocortes4.github.io/diegocortes-portfolio-2020/
 
 
 Screenshot of the webpage:
-![picture](assets/1.png)
-![picture](assets/2.png)
-![picture](assets/3.png)
 ![picture](assets/5.png)
+![picture](assets/1.png)
+<!-- ![picture](assets/2.png)
+![picture](assets/3.png) -->
+
 
 Credits:
 
