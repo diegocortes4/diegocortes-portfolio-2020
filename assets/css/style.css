@@ -25,6 +25,11 @@
     min width: 200px;
 }
 
+#portfolio {
+    float: left;
+    width:30%;
+    min width: 200px;
+}
 .index.html
 class="white-bg p-4"
         <h1> class="About Me" </h1>"
