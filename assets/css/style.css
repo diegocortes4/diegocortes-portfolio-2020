@@ -13,27 +13,27 @@
     padding: 2px;"
 }
 
-}
+
     body {
         background-image: url("../ignasi_pattern_s.png")
     }
-     */
+     
     /* * {background-color: aquamarine;} */
 #contact {
     float: left;
     width:30%;
-    min width: 200px;
+    min-width: 200px;
 }
 
 #portfolio {
     float: left;
     width:30%;
-    min width: 200px;
+    min-width: 200px;
 }
-.index.html
+/* .index.html
 class="white-bg p-4"
         <h1> class="About Me" </h1>"
           <hr>
           <section> class="container">
             <div>class="row"</div>
-            <div> class="col-md-3"</div> -->
+            <div> class="col-md-3"</div> --> */
